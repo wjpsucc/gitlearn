@@ -1,2 +1,3 @@
 test
+my succ
 add a new line 1
